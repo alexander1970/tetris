@@ -45,3 +45,14 @@ body {
   left: 200px;
   font-size: 0;
 }
+
+#game-over {
+  font-size: 100px;
+  color: green;
+  text-align: center;
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
